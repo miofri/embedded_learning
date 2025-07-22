@@ -1,0 +1,27 @@
+
+# IDE and build artifacts
+*.launch
+*.log
+*.elf
+*.map
+*.bin
+*.hex
+
+# STM32CubeIDE generated files
+/.vscode/
+/Debug/
+/Release/
+/MX_DevConfig/         # Sometimes created
+/.settings/
+/.metadata/
+/ipconfig.cfg
+/*.db
+/*.cproject
+/*.project
+/*.mxproject
+
+# User-specific workspace
+*.swp
+*.swo
+*.user
+*.bak
